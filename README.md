@@ -1,2 +1,2 @@
-# gsm-manakara-tool-rent.netlify
+# gsm-manakara-tool-rent
 create site web
